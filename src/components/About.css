@@ -1,0 +1,11 @@
+article {
+    padding: 2rem;
+    width: 80%;
+    margin: auto;
+    border: 1px solid magenta;
+    border-radius: 15px;
+}
+
+p {
+    line-height: 1.75rem;
+}

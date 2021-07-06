@@ -1,0 +1,13 @@
+.wrapper-div {
+    padding: 2rem;
+    width: 80%;
+    margin: 2rem auto;
+    border: 1px solid magenta;
+    border-radius: 15px;
+}
+
+li {
+    line-height: 1.75rem;
+    padding-bottom: 0.5rem;
+
+}

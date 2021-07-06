@@ -1,0 +1,28 @@
+.App {
+    margin: 2rem auto;
+    width: 70%;
+    background: lightgoldenrodyellow;
+    padding: 3.5rem 4.5rem;
+}
+
+
+.wrapper-div {
+    border: 1px solid magenta;
+    border-radius: 15px;
+}
+
+.heading {
+    background: linear-gradient(
+        to right, 
+        #ff6e7f, 
+        #bfe9ff
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+h1 {
+    font-size: 9vmin;
+    line-height: 1.1;
+}
